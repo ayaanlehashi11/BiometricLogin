@@ -34,9 +34,10 @@ Suggested Reading
 Screenshots
 -----------
 
-<img src="screenshots/authorize_bio.png" height="400" alt="Screenshot"/>
-<img src="screenshots/login_landing.png" height="400" alt="Screenshot"/>
-<img src="screenshots/bio_prompt.png" height="400" alt="Screenshot"/>
+![authorize_bio](https://github.com/ayaanlehashi11/BiometricLogin/assets/91608871/afc5fae6-57a5-4a4d-aaa3-32b8f619f19c)
+![bio_prompt](https://github.com/ayaanlehashi11/BiometricLogin/assets/91608871/e0d58648-5b48-4644-9170-3e506b547d33)
+
+![login_landing](https://github.com/ayaanlehashi11/BiometricLogin/assets/91608871/139d2a0d-5dd9-4482-b57b-4f7126d1e0a9)
 
 Getting Started
 ---------------
